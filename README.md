@@ -1,4 +1,2 @@
 # TransportManagementSystem
-This web application is developed:-
-To automate the travelling process so that the employees can avail the cab facility to commute to the office and home smoothly.
-To build a web application that collects the cab requirements for pick-up & drop within a timeframe without any involvement of Third Party Applications.
+This Web Application is designed to streamline and optimize the operations of a modern transportation service. This comprehensive platform integrates a user-friendly frontend, a powerful backend, and a secure database, working cohesively to efficiently manage cab bookings, driver assignments, and customer interactions.
